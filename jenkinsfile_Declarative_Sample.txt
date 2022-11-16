@@ -28,7 +28,7 @@ stages
  {    
   steps
    {
-    echo "This is Deploy project run with Docker tool ................"
+    echo "This is Deploy project run with Docker tool sucessfully................"
    }
   }
  stage('Monitor')
