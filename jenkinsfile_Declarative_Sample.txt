@@ -37,6 +37,7 @@ stages
    {
     echo "This is Monitoring project run with Splunk tool ................"
     echo "pavani modifed all things"
+    echo "completed projects 2022"
    }
   }
 }
