@@ -36,6 +36,7 @@ stages
   steps
    {
     echo "This is Monitoring project run with Splunk tool ................"
+    echo "pavani modifed all things"
    }
   }
 }
